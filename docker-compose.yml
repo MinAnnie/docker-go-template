@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  go-template:
+    build: .
+    container_name: "go-template"
+    ports:
+      - "1323:1323"
