@@ -3,10 +3,10 @@ Archivos mínimos para usar Golang con Docker compose.
 
 Para ejecutarlo hay que correr estos comandos:
 ``` bash
-docker-compose build
+docker compose build
 ```  
 ```bash
-docker-compose up
+docker compose up
 ```
 
 o se puede correr este único comando:
